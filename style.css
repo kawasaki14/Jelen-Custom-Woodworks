@@ -64,7 +64,7 @@ html, body {
   
   .jumbotron {
     height: 800px;
-    background-image: url("/Images/shop1.jpg");
+    background-image: url("/images/shop1.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
